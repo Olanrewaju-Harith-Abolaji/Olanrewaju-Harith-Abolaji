@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Olanrewaju Harith
 
 🎓 Graduate of Information Technology (University of Ilorin)
-💡 Passionate about Data Science & Machine Learning – using data to solve real-world problems.
+#💡 Passionate about Data Science & Machine Learning – using data to solve real-world problems.
 
 ## 🔬 Experience
 
